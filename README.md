@@ -1,45 +1,40 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+# :corn: Merge de milhões :corn:
+**Número da Lista**: 4  
+**Conteúdo da Disciplina**: Dividir e conquistar 
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+|  Matrícula  |            Aluno           |
+|    --       |             --             |
+| 14/0031634  |  Stefânia Bezerra da Silva |
+| 15/0150741  |  Victor Alves Gomide       |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Mostrando a eficiência do Mergesort comparado com o BubbleSort. 
+E nosso programa diz em quanto o tempo o computador consegue ordenar em até um minuto, um tamanho de array inserido pelo usuário.
+
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+**Framework**: Não foi utilizado<br>
+
+**Passos para a instalação**:
+
+1) Primeiramente o usuário deverá clonar o repositório:
+
+`git clone https://github.com/projeto-de-algoritmos/D-C_OMergeDeMilhoes`
+
+2) Depois do repositório clonado, você deverá instalar o Python caso não tenha em sua máquina:
+
+`sudo apt-get install python3`
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Depois de instalar as dependências acima, o usuário precisará apenas compilar o código no terminal:
 
-
-
+`python3 main.py`
 

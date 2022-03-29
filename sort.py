@@ -36,3 +36,18 @@ def MergeSort(array):
                 array_ordenado.append(primeira_metade[i])
                 i += 1
         return(array_ordenado)
+
+
+# Implementação do BubbleSort, seguindo a definição
+def BubbleSort(array):
+    n = len(array)
+    ordenado = False
+    while not ordenado:
+        ordenado = True
+        for i in range(n-1):
+            if array[i] > array[i+1]:
+                ordenado = False
+                temp = array[i]
+                array[i] = array[i+1]
+                array[i+1] = temp
+    return array

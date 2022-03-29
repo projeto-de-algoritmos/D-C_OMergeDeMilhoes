@@ -14,7 +14,11 @@ E nosso programa diz em quanto o tempo o computador consegue ordenar em até um 
 
 
 ## Screenshots
-
+![](ibagens/print1.png)  
+  
+![](ibagens/print2.png)  
+  
+![](ibagens/print3.png)
 
 
 ## Instalação 
